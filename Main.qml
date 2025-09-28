@@ -2,6 +2,9 @@ import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
 import QtQuick.Controls.Material
+import QtQuick.LocalStorage
+import "js/NotesDatabase.js" as Database
+import "js/Note.js" as Note
 
 ApplicationWindow {
     // each element should have unique id
@@ -13,4 +16,7 @@ ApplicationWindow {
 
     Material.theme: Material.System
     Material.accent: Material.Blue
+
+
+
 }

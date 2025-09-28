@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/NoteBook/">
     <file alias="js/qmldir">C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/qmldir</file>
+    <file alias="qml/qmldir">C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/qml/qmldir</file>
   </qresource>
 </RCC>
 

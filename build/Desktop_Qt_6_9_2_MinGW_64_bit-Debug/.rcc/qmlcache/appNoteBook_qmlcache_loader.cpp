@@ -12,6 +12,27 @@ namespace _qt_qml_NoteBook_Main_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_NoteBook_js_Note_js { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_NoteBook_js_NotesDatabase_js { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_NoteBook_qml_Dashboard_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -27,6 +48,9 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/NoteBook/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_NoteBook_Main_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/NoteBook/js/Note.js"), &QmlCacheGeneratedCode::_qt_qml_NoteBook_js_Note_js::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/NoteBook/js/NotesDatabase.js"), &QmlCacheGeneratedCode::_qt_qml_NoteBook_js_NotesDatabase_js::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/NoteBook/qml/Dashboard.qml"), &QmlCacheGeneratedCode::_qt_qml_NoteBook_qml_Dashboard_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

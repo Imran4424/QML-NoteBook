@@ -3,6 +3,7 @@
     <file alias="Main.qml">C:/Users/ImranHossain/Documents/Qt/NoteBook/Main.qml</file>
     <file alias="js/Note.js">C:/Users/ImranHossain/Documents/Qt/NoteBook/js/Note.js</file>
     <file alias="js/NotesDatabase.js">C:/Users/ImranHossain/Documents/Qt/NoteBook/js/NotesDatabase.js</file>
+    <file alias="qml/Dashboard.qml">C:/Users/ImranHossain/Documents/Qt/NoteBook/qml/Dashboard.qml</file>
   </qresource>
 </RCC>
 

@@ -20,6 +20,7 @@ qt_add_qml_module(appNoteBook
         QML_FILES
         QML_FILES js/Note.js
         QML_FILES js/NotesDatabase.js
+        QML_FILES qml/Dashboard.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

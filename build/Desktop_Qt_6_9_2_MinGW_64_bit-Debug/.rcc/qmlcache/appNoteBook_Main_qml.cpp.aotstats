@@ -4,20 +4,20 @@
             {
                 "entries": [
                     {
-                        "codegenSuccessful": false,
+                        "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"theme\".",
+                        "durationMicroseconds": 369,
+                        "errorMessage": "",
                         "functionName": "theme",
-                        "line": 13
+                        "line": 17
                     },
                     {
-                        "codegenSuccessful": false,
+                        "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"accent\".",
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
                         "functionName": "accent",
-                        "line": 14
+                        "line": 18
                     }
                 ],
                 "filePath": "C:/Users/ImranHossain/Documents/Qt/NoteBook/Main.qml"

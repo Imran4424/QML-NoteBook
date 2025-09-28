@@ -4,9 +4,10 @@
 Qt.include("Note.js")
 
 // Database configuration
-var DATABASE_NAME = "NotesApp"
+var DATABASE_NAME = "NotesAppDB"
 var DATABASE_VERSION = "1.0"
 var DATABASE_DESCRIPTION = "Notes Application Database"
+var DATABASE_SIZE = 1000000 * 100 // 100MB
 
 // Get or create the database connection
 function getDatabase() {
@@ -14,7 +15,7 @@ function getDatabase() {
                 DATABASE_NAME,
                 DATABASE_VERSION,
                 DATABASE_DESCRIPTION,
-                100000 // 100KB estimated size
+                DATABASE_SIZE
                 )
 }
 

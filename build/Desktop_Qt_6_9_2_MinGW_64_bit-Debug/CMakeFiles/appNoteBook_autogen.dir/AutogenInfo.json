@@ -944,6 +944,7 @@
 		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
 		"C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
@@ -1040,6 +1041,7 @@
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_Main_qml.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_js/Note_js.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_js/NotesDatabase_js.cpp",
+		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/Dashboard_qml.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qmlcache_loader.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/appnotebook_qmltyperegistrations.cpp"
 	],
@@ -1065,6 +1067,7 @@
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_Main_qml.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_js/Note_js.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_js/NotesDatabase_js.cpp",
+		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/Dashboard_qml.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qmlcache_loader.cpp",
 		"C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/appnotebook_qmltyperegistrations.cpp"
 	],
