@@ -2,5 +2,7 @@ module NoteBook
 typeinfo appNoteBook.qmltypes
 prefer :/qt/qml/NoteBook/
 Main 1.0 Main.qml
+Note 1.0 js/Note.js
+NotesDatabase 1.0 js/NotesDatabase.js
 depends QtQuick
 
