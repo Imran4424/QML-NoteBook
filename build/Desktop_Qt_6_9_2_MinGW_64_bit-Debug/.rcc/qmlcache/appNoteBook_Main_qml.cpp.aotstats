@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"theme\".",
+                        "functionName": "theme",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"accent\".",
+                        "functionName": "accent",
+                        "line": 14
+                    }
+                ],
+                "filePath": "C:/Users/ImranHossain/Documents/Qt/NoteBook/Main.qml"
+            }
+        ],
+        "moduleId": "NoteBook(appNoteBook)"
+    }
+]

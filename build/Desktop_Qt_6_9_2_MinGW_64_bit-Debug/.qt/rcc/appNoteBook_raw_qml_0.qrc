@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/NoteBook/">
+    <file alias="Main.qml">C:/Users/ImranHossain/Documents/Qt/NoteBook/Main.qml</file>
+  </qresource>
+</RCC>
+

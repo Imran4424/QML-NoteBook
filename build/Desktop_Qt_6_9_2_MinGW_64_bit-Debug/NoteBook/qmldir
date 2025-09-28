@@ -1,0 +1,6 @@
+module NoteBook
+typeinfo appNoteBook.qmltypes
+prefer :/qt/qml/NoteBook/
+Main 1.0 Main.qml
+depends QtQuick
+
