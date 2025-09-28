@@ -3939,6 +3939,10 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isExternal" : true,
 			"path" : "C:/Qt/6.9.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
 		},
 		{

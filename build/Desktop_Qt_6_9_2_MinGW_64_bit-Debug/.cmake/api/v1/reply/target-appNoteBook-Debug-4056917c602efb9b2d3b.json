@@ -27,13 +27,13 @@
 			"qt6_add_qml_module",
 			"qt_add_qml_module",
 			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
 			"_qt_internal_scan_qml_imports",
 			"_qt_internal_generate_deploy_qml_imports_script",
 			"cmake_language",
 			"_qt_internal_finalize_executable",
 			"qt6_finalize_target",
-			"_qt_internal_qml_copy_files_to_build_dir",
-			"qt6_target_qml_sources",
 			"target_include_directories",
 			"_qt_internal_qml_type_registration",
 			"target_sources",
@@ -104,13 +104,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 41,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 36,
+				"line" : 38,
 				"parent" : 0
 			},
 			{
@@ -446,74 +446,74 @@
 				"parent" : 66
 			},
 			{
-				"file" : 1,
-				"line" : -1,
-				"parent" : 0
-			},
-			{
-				"command" : 18,
-				"file" : 23,
-				"line" : 1,
-				"parent" : 68
-			},
-			{
-				"command" : 17,
-				"file" : 0,
-				"line" : 844,
-				"parent" : 69
-			},
-			{
-				"command" : 16,
-				"file" : 0,
-				"line" : 766,
-				"parent" : 70
-			},
-			{
 				"command" : 15,
-				"file" : 0,
-				"line" : 766,
-				"parent" : 71
-			},
-			{
-				"command" : 14,
-				"file" : 10,
-				"line" : 4516,
-				"parent" : 72
-			},
-			{
-				"command" : 13,
-				"file" : 10,
-				"line" : 4291,
-				"parent" : 73
-			},
-			{
-				"command" : 20,
 				"file" : 10,
 				"line" : 951,
 				"parent" : 24
 			},
 			{
-				"command" : 19,
+				"command" : 14,
 				"file" : 10,
-				"line" : 3613,
-				"parent" : 75
+				"line" : 3607,
+				"parent" : 68
 			},
 			{
 				"command" : 13,
 				"file" : 10,
 				"line" : 2976,
+				"parent" : 69
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 3613,
+				"parent" : 68
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 2976,
+				"parent" : 71
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 20,
+				"file" : 23,
+				"line" : 1,
+				"parent" : 73
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 844,
+				"parent" : 74
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 766,
+				"parent" : 75
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 766,
 				"parent" : 76
 			},
 			{
-				"command" : 19,
+				"command" : 16,
 				"file" : 10,
-				"line" : 3607,
-				"parent" : 75
+				"line" : 4516,
+				"parent" : 77
 			},
 			{
 				"command" : 13,
 				"file" : 10,
-				"line" : 2976,
+				"line" : 4291,
 				"parent" : 78
 			},
 			{
@@ -586,13 +586,13 @@
 				"command" : 23,
 				"file" : 10,
 				"line" : 3321,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 29,
 				"file" : 10,
 				"line" : 3458,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 23,
@@ -604,61 +604,61 @@
 				"command" : 23,
 				"file" : 10,
 				"line" : 3514,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 3321,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 3514,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 3321,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 3514,
-				"parent" : 75
+				"parent" : 68
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3321,
+				"parent" : 68
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3514,
+				"parent" : 68
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3321,
+				"parent" : 68
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3514,
+				"parent" : 68
 			},
 			{
 				"command" : 28,
 				"file" : 10,
 				"line" : 3629,
-				"parent" : 75
-			},
-			{
-				"command" : 27,
-				"file" : 0,
-				"line" : 400,
-				"parent" : 99
-			},
-			{
-				"command" : 26,
-				"file" : 0,
-				"line" : 2560,
-				"parent" : 100
-			},
-			{
-				"command" : 23,
-				"file" : 0,
-				"line" : 2104,
-				"parent" : 101
-			},
-			{
-				"command" : 28,
-				"file" : 10,
-				"line" : 3665,
-				"parent" : 75
+				"parent" : 68
 			},
 			{
 				"command" : 27,
@@ -679,16 +679,40 @@
 				"parent" : 105
 			},
 			{
+				"command" : 28,
+				"file" : 10,
+				"line" : 3665,
+				"parent" : 68
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 400,
+				"parent" : 107
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 2560,
+				"parent" : 108
+			},
+			{
+				"command" : 23,
+				"file" : 0,
+				"line" : 2104,
+				"parent" : 109
+			},
+			{
 				"command" : 30,
 				"file" : 0,
 				"line" : 838,
-				"parent" : 69
+				"parent" : 74
 			},
 			{
 				"command" : 23,
 				"file" : 0,
 				"line" : 2229,
-				"parent" : 107
+				"parent" : 111
 			}
 		]
 	},
@@ -877,8 +901,10 @@
 				7,
 				9,
 				11,
-				12,
-				13
+				13,
+				15,
+				16,
+				17
 			]
 		},
 		{
@@ -1068,16 +1094,16 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 74,
-			"id" : "appNoteBook_qmlimportscan::@6890427a1f51a3e7e1df"
+			"backtrace" : 70,
+			"id" : "appNoteBook_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 77,
+			"backtrace" : 72,
 			"id" : "appNoteBook_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 79,
-			"id" : "appNoteBook_copy_qml::@6890427a1f51a3e7e1df"
+			"id" : "appNoteBook_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "appNoteBook_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
@@ -1242,23 +1268,26 @@
 				7,
 				9,
 				11,
-				12,
 				13,
-				14,
 				15,
 				16,
 				17,
 				18,
 				19,
-				31,
-				32,
-				33,
-				34,
-				35,
-				36,
-				37,
+				20,
+				21,
+				22,
+				23,
+				24,
 				38,
-				39
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46
 			]
 		},
 		{
@@ -1268,24 +1297,28 @@
 				1,
 				5,
 				8,
-				10
+				10,
+				12,
+				14
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				20,
-				21,
-				22,
-				23,
-				24,
 				25,
 				26,
 				27,
 				28,
 				29,
-				30
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
 			]
 		}
 	],
@@ -1368,47 +1401,77 @@
 			"sourceGroupIndex" : 0
 		},
 		{
+			"backtrace" : 99,
+			"path" : "qml/Dashboard.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/Dashboard_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"path" : "qml/NoteEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
 			"backtrace" : 102,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appNoteBook_raw_qml_0.cpp",
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/NoteEditor_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 106,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appNoteBook_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appNoteBook_raw_qml_0_extra_qmldirs.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 112,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_NoteBook.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 112,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/qmldir",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 112,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appNoteBook_raw_qml_0.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 112,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appNoteBook_raw_qml_0_extra_qmldirs.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 112,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/qmldir",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 112,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/qml/qmldir",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1457,6 +1520,18 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_js/NotesDatabase_js.cpp.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/Dashboard_qml.cpp.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appNoteBook_qml/NoteEditor_qml.cpp.rule",
 			"sourceGroupIndex" : 2
 		},
 		{

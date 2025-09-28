@@ -1,4 +1,4 @@
-set(qml_import_scanner_imports_count 35)
+set(qml_import_scanner_imports_count 39)
 set(qml_import_scanner_import_0 "CLASSNAME;QtQuick2Plugin;LINKTARGET;Qt6::qtquick2plugin;NAME;QtQuick;PATH;C:/Qt/6.9.2/mingw_64/qml/QtQuick;PLUGIN;qtquick2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/;RELATIVEPATH;QtQuick;TYPE;module;")
 set(qml_import_scanner_import_1 "CLASSNAME;QtQmlPlugin;LINKTARGET;Qt6::qmlplugin;NAME;QtQml;PATH;C:/Qt/6.9.2/mingw_64/qml/QtQml;PLUGIN;qmlplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/;RELATIVEPATH;QtQml;TYPE;module;")
 set(qml_import_scanner_import_2 "NAME;QML;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/QML;PREFER;:/qt/qml/NoteBook/;RELATIVEPATH;QML;TYPE;module;")
@@ -34,4 +34,8 @@ set(qml_import_scanner_import_31 "NAME;js/NotesDatabase.js;PATH;C:/Users/ImranHo
 set(qml_import_scanner_import_32 "NAME;js/Note.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/js/Note.js;TYPE;javascript;")
 set(qml_import_scanner_import_33 "NAME;js/NotesDatabase.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/NotesDatabase.js;TYPE;javascript;")
 set(qml_import_scanner_import_34 "NAME;js/Note.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/Note.js;TYPE;javascript;")
+set(qml_import_scanner_import_35 "NAME;../js/NotesDatabase.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/NotesDatabase.js;TYPE;javascript;")
+set(qml_import_scanner_import_36 "NAME;../js/Note.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/NoteBook/js/Note.js;TYPE;javascript;")
+set(qml_import_scanner_import_37 "NAME;../js/NotesDatabase.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/js/NotesDatabase.js;TYPE;javascript;")
+set(qml_import_scanner_import_38 "NAME;../js/Note.js;PATH;C:/Users/ImranHossain/Documents/Qt/NoteBook/js/Note.js;TYPE;javascript;")
 
